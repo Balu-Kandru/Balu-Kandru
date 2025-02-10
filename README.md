@@ -13,7 +13,7 @@
 
 - 💼 Working as a JavaScript Developer at **"MobiOffice Software Innovations"** &nbsp;&nbsp; [Oct 2022 - working]
 
-- 🌱 I’m currently exploring **"Artificial Intelligence"**
+- 🌱 I’m currently exploring **"Vector Database"**
 
 - 📫 How to reach me: **swamy.kandru@gmail.com**
 
