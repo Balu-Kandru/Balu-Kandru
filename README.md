@@ -11,7 +11,7 @@
 
 <div align="center" > <hr width="50%" /> </div>
 
-- 💼 Working as a JavaScript Developer at **"MobiOffice Software Innovations"** &nbsp;&nbsp; [Oct 2022 - working]
+- 💼 Working as a JavaScript Developer at **"MobiOffice Software Innovations"** &nbsp;&nbsp; [Oct 2022 - present]
 
 - 🌱 I’m currently exploring **"Vector Database"**
 
